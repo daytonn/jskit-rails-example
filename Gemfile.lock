@@ -1,7 +1,7 @@
 PATH
   remote: /Users/daytonn/Development/jskit_rails
   specs:
-    jskit_rails (0.0.1)
+    jskit_rails (1.0.6)
       rails (~> 4.1)
 
 GEM
