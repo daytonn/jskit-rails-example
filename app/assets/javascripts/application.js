@@ -1,4 +1,4 @@
 //= require jquery
 //= require jquery_ujs
-//= require jskit-rails
+//= require jskit_rails
 //= require_tree ./controllers

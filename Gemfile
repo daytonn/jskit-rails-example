@@ -5,7 +5,8 @@ gem "sqlite3"
 gem "sass-rails", "~> 4.0.3"
 gem "uglifier", ">= 1.3.0"
 gem "jquery-rails"
-gem "jskit-rails", "~> 1.0.3"
+gem "jskit_rails", path: "/Users/daytonn/Development/jskit_rails"
+gem "unicorn-rails"
 
 group :development, :test do
   gem "pry"
