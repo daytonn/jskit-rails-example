@@ -1,7 +1,11 @@
 App.createController("Pages", {
   actions: ["index"],
 
+  all: function(message) {
+    $("#controller-payload").html(message);
+  },
+
   index: function(message) {
-    $("body h1").text(message);
+    $("#action-payload").text(message);
   }
 });
